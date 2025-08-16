@@ -2,6 +2,7 @@
 
 # 支持参数和默认值
 
+```
 "listen", ":8053", "UDP listen address for DNS (e.g. :53, 127.0.0.1:8053)"
 "u", "", "DoH URL, e.g. https://example.com/dns-query"
 "host", "", "override Host header & TLS SNI (e.g. doh.example.com)"
@@ -22,3 +23,4 @@
 "t", 6*time.Second, "per-query DoH timeout"
 "udp-buf", 4096, "UDP read buffer size"
 "logq", false, "log queries and upstream results"
+```
