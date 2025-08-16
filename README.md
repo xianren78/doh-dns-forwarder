@@ -1,4 +1,4 @@
-##A DOH DNS forwarder
+## A DOH DNS forwarder
 
 # 支持参数和默认值
 
