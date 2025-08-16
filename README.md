@@ -1,6 +1,6 @@
-## A DOH DNS forwarder
+# A DOH DNS forwarder
 
-# 支持参数和默认值
+## 支持参数和默认值
 
 ```
 "listen", ":8053", "UDP listen address for DNS (e.g. :53, 127.0.0.1:8053)"
